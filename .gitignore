@@ -1,0 +1,5 @@
+/target
+
+# This is a non end project. As such there is no reason to include the
+# Cargo.lock file.
+Cargo.lock
